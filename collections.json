@@ -276,6 +276,12 @@
     "slug": "boldinals"
   },
   {
+    "name": "Borginals",
+    "type": "gallery",
+    "id": "cbb48b1c451fa7a961e6c3cb33b30e8c15d4c25108910794fc83ee8340c07602i0",
+    "slug": "borginals"
+  },
+  {
     "name": "BTC Substance by MDV",
     "type": "parent",
     "ids": [
@@ -1351,13 +1357,5 @@
       "0441bc243f771ab056747ead295e8a4af5230f8ceaea5afd4e066ddb0bbff238i589"
     ],
     "slug": "yunabrc"
-  }
-   {
-    "name": "Borginals",
-    "type": "parent",
-    "ids": [
-      "cbb48b1c451fa7a961e6c3cb33b30e8c15d4c25108910794fc83ee8340c07602i0"
-    ],
-    "slug": "Borginals"
   }
 ]
